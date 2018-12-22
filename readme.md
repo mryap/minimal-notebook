@@ -1,7 +1,7 @@
 ### 22-12-2018
 
 
-To version control juptyer-notebook in Docker environment
+To test version control process with juptyer-notebook in Docker environment
 
 
 #### Docker
