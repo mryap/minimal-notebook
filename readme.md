@@ -1,3 +1,7 @@
+### 01/01/2019
+
+Load and view insights-in-customer-attrition-25-04-2017.ipynb (R)
+
 ### 22-12-2018
 
 

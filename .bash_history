@@ -1,2 +1,9 @@
 pwd
 exit
+history
+3
+1
+exit
+ls
+pwd
+exit
